@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="rogue_like"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rogue_like">
+				<Option output="/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/rogue_like" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 rogue_like"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rogue_like/fast">
+				<Option output="/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/rogue_like" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 rogue_like/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/deniabakaev/Downloads/rogue-like/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Game/GameLoop.cpp">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Game/GameLoop.h">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/AIdKit/AidKit.cpp">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/AIdKit/AidKit.h">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Character/Character.cpp">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Character/Character.h">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Character/Dragon/Dragon.cpp">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Character/Dragon/Dragon.h">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Character/Dragon/Projectile/Projectile.cpp">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Character/Dragon/Projectile/Projectile.h">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Character/Knight /Knight.cpp">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Character/Knight /Knight.h">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Character/Princess/Princess.cpp">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Character/Princess/Princess.h">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Character/Zombie/Zombie.cpp">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Character/Zombie/Zombie.h">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Floor/Floor.cpp">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Floor/Floor.h">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Gameobject.cpp">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Gameobject.h">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Wall/Wall.cpp">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/Gameobject/Wall/Wall.h">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/main.cpp">
+			<Option target="rogue_like"/>
+		</Unit>
+		<Unit filename="/Users/deniabakaev/Downloads/rogue-like/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
